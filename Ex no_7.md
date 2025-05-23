@@ -12,6 +12,7 @@ To write a C Program to Print a right triangle star Pattern
 6. End.
 
 ## Program:
+```
 #include <stdio.h> 
 int main() { 
     int i, j, rows; 
@@ -23,7 +24,7 @@ int main() {
         printf("\n"); 
     }    return 0; 
 }
-
+```
 ## Output:
 
 ![image](https://github.com/user-attachments/assets/18508b97-4a8a-41b1-920f-cc2fb4f997c0)
