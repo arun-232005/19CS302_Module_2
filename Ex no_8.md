@@ -12,6 +12,7 @@ To write a C program to perform multiplication and division of two numbers using
 6. End.
 
 ## Program:
+```
 #include<stdio.h> 
 void multiply(int a,int b); 
 void div(int a,int b); 
@@ -34,7 +35,7 @@ int result;
 result=a/b; 
 printf("\nDivision: %d",result); 
 }
-
+```
 ## Output:
 ![image](https://github.com/user-attachments/assets/39e6c107-f059-4e5f-b7af-2c60ddb1d99f)
 
